@@ -1,0 +1,22 @@
+@font-face {
+    font-family: fac;
+    src: url(fonts/Open_Sans\,Roboto/Open_Sans);
+    font-family: "Open_Sans";
+}
+
+@font-face {
+    font-family: fac;
+    src: url(fonts/Open_Sans\,Roboto/Roboto);
+    font-family: Roboto;
+}
+
+h1{
+    font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-family: "Open_Sans", "lucida console", "courier new";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
