@@ -17,7 +17,7 @@
 img{
     display: block;
     max-inline-size: 100%;
-    width: 130px;
+    width: 100%;
     height: 70px;
 }
 
@@ -33,7 +33,7 @@ p{
 }
 
 .tarjeta{
-    width: 200px;
+    width: 260px;
     height: 300px;
     padding: 30px;
     margin: auto;
