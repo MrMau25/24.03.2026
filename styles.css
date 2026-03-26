@@ -17,8 +17,8 @@
 img{
     display: block;
     max-inline-size: 100%;
-    width: auto;
-    height: auto;
+    width: 130px;
+    height: 70px;
 }
 
 h1{
